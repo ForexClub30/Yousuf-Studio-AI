@@ -1,0 +1,7 @@
+{
+  "name": "Yousuf Studio AI",
+  "description": "A premium, next-generation AI Voice Tool for ultra-realistic voice overs and cloning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
